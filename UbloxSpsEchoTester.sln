@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ublox SPS Echo Tester", "UbloxTester.csproj", "{99945BA1-FE5F-44DE-95AC-E3CA128F23F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99945BA1-FE5F-44DE-95AC-E3CA128F23F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99945BA1-FE5F-44DE-95AC-E3CA128F23F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99945BA1-FE5F-44DE-95AC-E3CA128F23F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99945BA1-FE5F-44DE-95AC-E3CA128F23F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14951D37-DFC9-47AE-98AF-B499B64D3C89}
+	EndGlobalSection
+EndGlobal
